@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech Studio-AE",
+  "description": "An advanced web application to generate high-quality speech from text and SSML using the Gemini API. Customize voice, pitch, and rate for the perfect audio output.",
+  "requestFramePermissions": []
+}
